@@ -1,0 +1,11 @@
+{
+  "name": "directory-tree",
+  "version": "1.0.0",
+  "description": "Simulate directory tree",
+  "main": "directories.js",
+  "scripts": {
+    "start": "node directories.js"
+  },
+  "author": "Serhii Wang",
+  "license": "ISC"
+}
